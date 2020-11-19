@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> 98 icon Muñoz </title>
+
+</head>
+
+
+<body bgcolor="#D0D3D4"
+text="black">
+<center><h1><font color="white">98 ICON</font></h1> </center>
+
+<img src="img/98iconbray.png"height="150px"width="184px">
+<img src="img/button_productos.png"> 
+<img src="img/button_inicio.png">
+<img src="img/button_contacto.png">
+<img src="img/button_nosotros.png">
+
+<center><h2><p>
+98 Icon es una tienda de ropa en la cual
+encontaras diversas prendas de ropa 
+ </p></h2> </center>
+
+
+<center><img src="img/sudafendi.jpg"height="300px"width="300px"></center>
+<center><img src="img/chaqudsquared.jpg"height="300px"width="300ps"></center>
+
+
+</body>
+
+
+</html>
